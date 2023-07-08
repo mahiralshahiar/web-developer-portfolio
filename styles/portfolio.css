@@ -35,7 +35,7 @@ body {
 
 .section-description {
     color: #757575;
-    text-align: center;
+    text-align: left;
     font-size: 18px;
     font-weight: 400;
 }
@@ -78,6 +78,7 @@ nav a {
     ;
     background-repeat: no-repeat;
     background-position: bottom right, top left;
+
 
 
 }
@@ -153,7 +154,7 @@ main>section {
     font-weight: bold;
 } */
 .section-title {
-    text-align: center;
+    text-align: left;
 }
 
 #what-i-do-description {
