@@ -78,6 +78,7 @@ nav a {
     ;
     background-repeat: no-repeat;
     background-position: bottom right, top left;
+    height: 109vh;
 
 
 
@@ -95,7 +96,7 @@ nav a {
 }
 
 .banner .profile-pic {
-    width: 500px;
+    width: 584px;
 }
 
 .banner-greeting {
