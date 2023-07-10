@@ -184,6 +184,8 @@ main>section {
 
 /* resume section styles */
 
+.s-titile{justify-content: center;}
+
 .resume-colum-title {
     color: #474747;
     font-size: 30px;
